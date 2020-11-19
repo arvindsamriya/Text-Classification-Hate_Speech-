@@ -1,4 +1,4 @@
-# Text-Classification-Hate_Speech-
+# Text-Classification-Sentiment Analysis  
 The objective of this project is to detect the racist and sexist comments from amazon reviews or does a review contain any hate speech in it,we will classify these reviews. We will use a Training sample to build a model and use that model on a test dataset to predict the labels on that dataset and find the accuracy of our model.
 ## Importance
 This project is a part of Natural Language Processing(NLP) and the most important step of this project is feature extraction and Model Selection that we would see in the provided jupyter notebook
